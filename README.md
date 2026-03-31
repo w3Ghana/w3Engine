@@ -1,1 +1,1 @@
-w3Ghana - Engine application.
+w3Ghana - Engine Application.
